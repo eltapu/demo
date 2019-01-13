@@ -2,4 +2,6 @@
 
 Nothing to see here
 
-## Headin 2
+## Heading 2
+
+Some important stuff will be displayed here at a point of time
